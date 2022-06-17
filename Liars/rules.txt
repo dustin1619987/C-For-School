@@ -1,0 +1,13 @@
+Rule 1: There will need to be a miniumu of two players(No upper limit of participants).
+
+Rule 2: 5 Dice for each player.
+
+Rule 3: Do not show your dice to the fellow players.
+
+Rule 4: No cheating.
+
+Rule 5: You can call liar at any point of the game if you think the last player guess was wrong. (The game ends here). 
+
+Rule 6: No fighting.
+
+Rule 7: You can keep playing until you're out of chips. 
