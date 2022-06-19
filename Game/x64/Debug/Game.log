@@ -1,0 +1,9 @@
+﻿  Dice.cpp
+  Game.cpp
+C:\Users\dusti\source\repos\Game\Game.cpp(66,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dusti\source\repos\Game\Game.cpp(67,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+  rule.cpp
+  stdafx.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\dusti\source\repos\Game\x64\Debug\Game.exe
